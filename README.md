@@ -1,8 +1,8 @@
 # The Agent's Uh-Oh
 
 [![make.fun · u-danu-the-agent-s-uh-oh-4c0911e4](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
-[![make.fun · rank](https://make.fun/badge/dajinxiaodui/agent-uh-oh-27-nov-2026/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
-[![make.fun · reward](https://make.fun/badge/dajinxiaodui/agent-uh-oh-27-nov-2026/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
+[![rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/dajinxiaodui/agent-uh-oh-27-nov-2026/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
+[![reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/dajinxiaodui/agent-uh-oh-27-nov-2026/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
 
 One word an agent blurts out when it has no idea what to do: the polite technical term for making things up, said out loud mid-task.
 
